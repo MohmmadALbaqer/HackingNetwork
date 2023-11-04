@@ -19,7 +19,7 @@ libraries_to_install = [
     "termcolor",
     "scapy",
     "colored",
-    "netsh",
+    
 ]
 
 for library in libraries_to_install:
